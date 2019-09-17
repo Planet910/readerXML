@@ -1,0 +1,20 @@
+{
+  "feeds" : [
+    {
+      "url": "",
+      "updateSchedule": "HOUR"
+    },
+    {
+      "url": "",
+      "updateSchedule": "4HOURS"
+    },
+    {
+      "url": "",
+      "updateSchedule": "HALFDAY"
+    },
+    {
+      "url": "",
+      "updateSchedule": "DAY"
+    }
+  ]
+}
